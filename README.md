@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Me chamo Guilherme Cervi</h1>
+<h1 align="center">Olá 😁, Me chamo Guilherme Cervi</h1>
 <h3 align="center">Apaixonado por motion e desenvolvimento</h3>
 
 - 🌱 Visando aperfeiçoar minhas habilidades em **Python e MySQL**
